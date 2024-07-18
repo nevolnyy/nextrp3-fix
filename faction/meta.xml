@@ -1,0 +1,5 @@
+<meta>
+     <info author="Sanya"/>
+     <script src="faction.lua" type="server"/>
+     <script src="factionsend.lua" type="client"/>
+</meta>

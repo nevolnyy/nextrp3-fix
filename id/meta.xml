@@ -1,0 +1,5 @@
+<meta>
+     <info author="Sanya"/>
+     <script src="idserv.lua" type="server"/>
+     <script src="idclient.lua" type="client" />
+</meta>
